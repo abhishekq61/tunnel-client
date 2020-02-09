@@ -1,6 +1,6 @@
 -  HOW To Connect
    - Download sarkaribabu-tunnel.sh using below command
-      <br>https://github.com/abhishekq61/tunnel-client/blob/master/sarkaribabu-tunnel.sh
+      <br>wget https://github.com/abhishekq61/tunnel-client/blob/master/sarkaribabu-tunnel.sh
     - Make above file executable by typing command
       <br>chmod +x ./sarkaribabu-tunnel.sh
     - Run Agent by typing command
