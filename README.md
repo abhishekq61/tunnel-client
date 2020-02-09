@@ -1,7 +1,7 @@
 -  HOW To Connect
    - Download sarkaribabu-tunnel.sh using below command<br>
       ```
-     wget https://github.com/abhishekq61/tunnel-client/blob/master/sarkaribabu-tunnel.sh
+     wget https://raw.githubusercontent.com/abhishekq61/tunnel-client/master/sarkaribabu-tunnel.sh
      ```
    - Make above file executable by typing command<br>
       ```
