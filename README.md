@@ -1,4 +1,4 @@
--  HOW To Connect
+-  How To Connect
    - Download sarkaribabu-tunnel.sh using below command<br>
       ```
      wget https://raw.githubusercontent.com/abhishekq61/tunnel-client/master/sarkaribabu-tunnel.sh
