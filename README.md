@@ -1,8 +1,15 @@
 -  HOW To Connect
    - Download sarkaribabu-tunnel.sh using below command
-      https://github.com/abhishekq61/tunnel-client/blob/master/sarkaribabu-tunnel.sh
+      <br>https://github.com/abhishekq61/tunnel-client/blob/master/sarkaribabu-tunnel.sh
     - Make above file executable by typing command
-       chmod +x ./sarkaribabu-tunnel.sh
+      <br>chmod +x ./sarkaribabu-tunnel.sh
     - Run Agent by typing command
-       ./sarkaribabu-tunnel.sh
+       <br>./sarkaribabu-tunnel.sh \<port>
+         - port is desired port where you local server is listening
+     - Optional Parameters
+       <br>
+         <br>./sarkaribabu-tunnel.sh \<port> hostname=<desired-domain> access-token=<access-token>
+         - desired-domain is domain of your choice which you want to point to your localhost
+         - access-token is your private auth token to authenciate yourself for accessing your purchased sarkaribabu doamin
+         
     
