@@ -3,8 +3,10 @@
       ```
      wget https://github.com/abhishekq61/tunnel-client/blob/master/sarkaribabu-tunnel.sh
      ```
-    Make above file executable by typing command
-      <br>chmod +x ./sarkaribabu-tunnel.sh
+   - Make above file executable by typing command<br>
+      ```
+     chmod +x ./sarkaribabu-tunnel.sh
+     ```
     - Run Agent by typing command<br>
       ```    
       ./sarkaribabu-tunnel.sh <port>
