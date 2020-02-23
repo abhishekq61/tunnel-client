@@ -21,7 +21,7 @@
      - Optional Parameters
        <br>
          ```
-       ./tunnel <port> hostname=<desired-domain> access-token=<access-token>
+       ./tunnel port=<port> hostname=<desired-domain> access-token=<access-token>
        ```
          - desired-domain is domain of your choice which you want to point to your localhost
          - access-token is your private auth token to authenticate yourself for accessing your purchased sarkaribabu domain
