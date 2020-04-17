@@ -20,7 +20,7 @@
      - Optional Parameters
        <br>
          ```
-       ./tunnel port=<port> hostname=<desired-domain>
+       ./staqlab-tunnel port=<port> hostname=<desired-domain>
        ```
          - desired-domain is domain of your choice which you want to point to your localhost
          
