@@ -1,29 +1,31 @@
+## Find more details in official link http://tunnel.staqlab.com/
+
 -  How To Connect
    - Download sarkaribabu-tunnel.sh using below command<br>
       ```
      Linux:
-     wget https://raw.githubusercontent.com/abhishekq61/tunnel-client/master/sarkaribabu-tunnel-client-linux -O tunnel
+     wget https://raw.githubusercontent.com/abhishekq61/tunnel-client/master/linux/staqlab-tunnel.zip
      Mac:
-     wget https://raw.githubusercontent.com/abhishekq61/tunnel-client/master/sarkaribabu-tunnel-client-macos -o tunnel
+     wget https://raw.githubusercontent.com/abhishekq61/tunnel-client/master/mac/staqlab-tunnel.zip
      Windows:
-     wget https://raw.githubusercontent.com/abhishekq61/tunnel-client/master/sarkaribabu-tunnel-client-win.exe -o tunnel
+     wget https://raw.githubusercontent.com/abhishekq61/tunnel-client/master/windows/staqlab-tunnel.zip
      ```
-   - Make above file executable by typing command<br>
-      ```
-     Linux:
-     chmod +x ./tunnel
-     ```
+   - Unzip Downloaded File<br>
+ 
     - Run Agent by typing command<br>
       ```    
-      ./tunnel <port>
+      ./staqlab-tunnel <port>
        ```
          - port is desired port where you local server is listening
      - Optional Parameters
        <br>
          ```
-       ./tunnel port=<port> hostname=<desired-domain> access-token=<access-token>
+       ./tunnel port=<port> hostname=<desired-domain>
        ```
          - desired-domain is domain of your choice which you want to point to your localhost
-         - access-token is your private auth token to authenticate yourself for accessing your purchased sarkaribabu domain
+         
+         
+Staqlab link         
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/staqlab-tunnel/staqlab-tunnel)
          
     
