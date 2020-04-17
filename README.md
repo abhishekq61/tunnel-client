@@ -1,4 +1,4 @@
-## Find more details in official link http://tunnel.staqlab.com/
+## Find more details in official link https://tunnel.staqlab.com/
 
 -  How To Connect
    - Download sarkaribabu-tunnel.sh using below command<br>
