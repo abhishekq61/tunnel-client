@@ -25,6 +25,22 @@
          - desired-domain is domain of your choice which you want to point to your localhost
          
          
+-  What is staqlab tunnel?<br/>
+   Staqlab tunnel is a alternative to ngrok.com or serveo.com which allows you to expose your localhost to
+   the public internet and get a public url which you could share anywhere and get a public domain name for it. ,i.e, 
+   keeping it simple you could host server on your local machine.<br/>
+   It also does have support for custom domain which makes it easy to develop webhooks integrations for shopify, nexmo,
+   facebook, github, wordpress or similar 3rd party app developments <br/><br/>
+   Another miscellaneous usages includes<br/>
+   - Hosting server on your machine
+   - Creating public link for QA or beta users for pre-release testing
+   - IOT development 
+   - ESP8266 Integration
+   - Devopps Purposes
+   - Debugging code issues
+   
+               
+         
 Staqlab link         
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/staqlab-tunnel/staqlab-tunnel)
          
