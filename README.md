@@ -25,7 +25,7 @@
          - desired-domain is domain of your choice which you want to point to your localhost
          
          
--  What is staqlab tunnel?<br/>
+   What is staqlab tunnel?<br/>
    Staqlab tunnel is a alternative to ngrok.com or serveo.com which allows you to expose your localhost to
    the public internet and get a public url which you could share anywhere and get a public domain name for it. ,i.e, 
    keeping it simple you could host server on your local machine.<br/>
@@ -38,6 +38,14 @@
    - ESP8266 Integration
    - Devopps Purposes
    - Debugging code issues
+   
+   Supported/Tested Webhook Integrations(not limited to, but includes)
+   - [Zoom Webhook integration](https://marketplace.zoom.us/docs/guides/tools-resources/webhooks)
+   - [Shopify Webhook Integartion](https://shopify.dev/docs/admin-api/rest/reference/events/webhook)
+   - [Zapier Hooks](https://zapier.com/page/webhooks/)
+   - [Zendesk Hooks](https://support.zendesk.com/hc/en-us/articles/204890268-Creating-webhooks-with-the-HTTP-target)
+   - [IFTTT Automation and DIY](https://ifttt.com/maker_webhooks)
+   - [Airtable Webhhoks](https://automate.io/integration/airtable/webhooks) 
    
                
          
