@@ -44,17 +44,9 @@
    - Debugging code issues
    
    Supported/Tested Webhook Integrations(not limited to, but includes)
-   - [Zoom Webhook integration](https://marketplace.zoom.us/docs/guides/tools-resources/webhooks)
-   - [Shopify Webhook Integartion](https://shopify.dev/docs/admin-api/rest/reference/events/webhook)
-   - [Zapier Hooks](https://zapier.com/page/webhooks/)
-   - [Zendesk Hooks](https://support.zendesk.com/hc/en-us/articles/204890268-Creating-webhooks-with-the-HTTP-target)
-   - [IFTTT Automation and DIY](https://ifttt.com/maker_webhooks)
-   - [Airtable Webhhoks](https://automate.io/integration/airtable/webhooks) 
-   
-               
-         
-Staqlab link         
-[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/staqlab-tunnel/staqlab-tunnel)
-
-[![Analytics](https://ga-beacon.appspot.com/UA-162774037-1/github-repo)](https://github.com/igrigorik/ga-beacon)         
-    
+   - Zoom Webhook integration
+   - Shopify Webhook Integartion
+   - Zapier Hooks
+   - Zendesk Hooks
+   - IFTTT Automation and DIY
+   - Airtable Webhhoks     
