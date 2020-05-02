@@ -55,5 +55,6 @@
          
 Staqlab link         
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/staqlab-tunnel/staqlab-tunnel)
-         
+
+[![Analytics](https://ga-beacon.appspot.com/UA-162774037-1/github-repo)](https://github.com/igrigorik/ga-beacon)         
     
