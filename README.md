@@ -14,7 +14,11 @@
  
     - Run Agent by typing command<br>
       ```    
+      Linux / MacOs:
       ./staqlab-tunnel <port>
+      
+      Windows:
+      staqlab-tunnel <port>
        ```
          - port is desired port where you local server is listening
      - Optional Parameters
