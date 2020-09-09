@@ -82,6 +82,7 @@
    - Zendesk Hooks
    - IFTTT Automation and DIY
    - Airtable Webhhoks     
+   - Alexa Skill Development
    
    Have a question / suggestion?<br/>
    Mail us at admin@staqlab.com 
