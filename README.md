@@ -83,6 +83,7 @@
    - IFTTT Automation and DIY
    - Airtable Webhhoks     
    - Alexa Skill Development
+   - Video Surveillance Hosting, e.g Contacam and simliar softwares
    
    Have a question / suggestion?<br/>
    Mail us at admin@staqlab.com 
