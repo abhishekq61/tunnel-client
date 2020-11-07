@@ -19,7 +19,6 @@
      wget https://raw.githubusercontent.com/abhishekq61/tunnel-client/master/windows/staqlab-tunnel.zip --no-check-certificate
      Raspberry pi:
      wget https://raw.githubusercontent.com/abhishekq61/tunnel-client/master/raspberry/staqlab-tunnel.zip --no-check-certificate
-
      ```
    - Unzip Downloaded File<br>
  
